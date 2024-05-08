@@ -1,4 +1,4 @@
-**README for HR Analytics Dashboard**
+**A.** **README for HR Analytics Dashboard**
 
 **1. Overview**
 Dashboard Name: HR Analytics Dashboard
@@ -27,3 +27,33 @@ Export Data: Data from charts can be exported for deeper analysis or reporting.
 
 **5. Disclaimer**
 The data presented in this dashboard is for internal use only and may contain sensitive information subject to company privacy policies and confidentiality agreements.
+
+**B. README file for HR Analytics**
+
+**1. Overview**
+Dashboard Name: Customer Analysis Dashboard
+Purpose: This dashboard is designed to provide comprehensive insights into customer behavior, preferences, purchasing patterns, and overall satisfaction to drive strategic business decisions.
+
+**2. Data Sources**
+Type of Data Used:
+
+Sales Data (e.g., purchase history, product preferences)
+Customer Demographics (e.g., age, location, gender)
+Customer Feedback and Surveys
+Web Analytics Data (e.g., page views, click-through rates)
+Data Refresh Rate: Data is updated weekly to maintain up-to-date insights.
+
+**3. Key Features**
+Customer Segmentation: Displays customer groups based on demographics and purchasing behavior.
+Sales Performance: Analyzes sales trends and identifies high-performing products and categories.
+Customer Satisfaction: Integrates survey results to assess customer satisfaction levels.
+Engagement Metrics: Evaluates customer engagement through website analytics and interaction rates.
+
+**4. How to Use This Dashboard**
+Navigation: Select different views using the navigation bar.
+Filters: Customize data displays by selecting specific time frames, customer segments, or product categories.
+Interactive Elements: Click on elements within the dashboard to drill down into more detailed data views.
+Download Reports: Generate and download custom reports based on the current data view.
+
+**5. Disclaimer**
+This dashboard includes aggregated data that is anonymized to protect customer privacy. External use of the data without prior authorization is strictly prohibited.
