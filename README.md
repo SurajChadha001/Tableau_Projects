@@ -1,4 +1,4 @@
-**A.** **README for HR Analytics Dashboard**
+**A.** **HR Analytics Dashboard**
 
 **1. Overview**
 Dashboard Name: HR Analytics Dashboard
